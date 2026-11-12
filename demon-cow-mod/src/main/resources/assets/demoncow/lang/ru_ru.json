@@ -1,0 +1,6 @@
+{
+  "item.demoncow.cow_bell": "Коровий колокольчик",
+  "item.demoncow.cow_bell.tooltip": "Позвони, чтобы призвать корову. Только не шлёпай её.",
+  "entity.demoncow.demon_cow": "Демоническая корова",
+  "entity.demoncow.summon_portal": "Коровий портал"
+}

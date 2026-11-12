@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:beef",
+          "functions": [
+            { "function": "minecraft:set_count", "count": { "type": "minecraft:uniform", "min": 24, "max": 48 } }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather",
+          "functions": [
+            { "function": "minecraft:set_count", "count": { "type": "minecraft:uniform", "min": 12, "max": 24 } }
+          ]
+        }
+      ]
+    }
+  ]
+}

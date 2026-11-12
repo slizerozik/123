@@ -1,0 +1,6 @@
+{
+  "item.demoncow.cow_bell": "Cow Bell",
+  "item.demoncow.cow_bell.tooltip": "Ring it to call the cow. Do not slap her.",
+  "entity.demoncow.demon_cow": "Demon Cow",
+  "entity.demoncow.summon_portal": "Cow Portal"
+}
